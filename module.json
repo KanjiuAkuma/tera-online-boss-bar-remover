@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate" : true,
+    "name" : "Boss Bar Remover",
+    "category" : "client",
+    "author" : "KamiKaze",
+    "options" : {
+        "guiName" : "Boss Bar Remover",
+        "niceName" : "Boss Bar Remover"
+    }
+}
