@@ -1,10 +1,13 @@
 {
-    "disableAutoUpdate" : true,
+    "disableAutoUpdate" : false,
     "name" : "Boss Bar Remover",
     "category" : "client",
     "author" : "KamiKaze",
     "options" : {
         "guiName" : "Boss Bar Remover",
         "niceName" : "Boss Bar Remover"
-    }
+    },
+    "servers" : [
+        "https://kanjiuakuma.github.io/tera-online-boss-bar-remover/"
+    ]
 }
