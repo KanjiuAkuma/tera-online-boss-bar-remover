@@ -1,9 +1,11 @@
 {
     "disableAutoUpdate" : false,
-    "name" : "Boss Bar Remover",
+    "name" : "boss-bar-remover",
     "category" : "client",
-    "author" : "KamiKaze",
+    "author" : "Kami-Kaze",
+    "version": "1.0",
     "options" : {
+        "cliName": "Boss Bar Remover",
         "guiName" : "Boss Bar Remover",
         "niceName" : "Boss Bar Remover"
     },
